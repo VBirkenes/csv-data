@@ -1,0 +1,901 @@
+quarter,level_1,level_2,level_3,value
+1995-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,17
+1995-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-18
+1995-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,16
+1995-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-19
+1995-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,22
+1995-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,17
+1995-Q1,Total Services Sector,Financial & Insurance,Fund Management,na
+1995-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,28
+1995-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,26
+1995-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,27
+1995-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,7
+1995-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,61
+1995-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-11
+1995-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,20
+1995-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,20
+1995-Q2,Total Services Sector,Financial & Insurance,Fund Management,na
+1995-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,48
+1995-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,-7
+1995-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,31
+1995-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,23
+1995-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,71
+1995-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,73
+1995-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,21
+1995-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,39
+1995-Q3,Total Services Sector,Financial & Insurance,Fund Management,na
+1995-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,49
+1995-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,16
+1995-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,9
+1995-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-5
+1995-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,17
+1995-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,29
+1995-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,12
+1995-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,52
+1995-Q4,Total Services Sector,Financial & Insurance,Fund Management,na
+1995-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,3
+1995-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,14
+1996-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,6
+1996-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-36
+1996-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-5
+1996-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-27
+1996-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,23
+1996-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,44
+1996-Q1,Total Services Sector,Financial & Insurance,Fund Management,na
+1996-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,27
+1996-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,25
+1996-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,14
+1996-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,15
+1996-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,39
+1996-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-9
+1996-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,25
+1996-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,4
+1996-Q2,Total Services Sector,Financial & Insurance,Fund Management,na
+1996-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,37
+1996-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,1
+1996-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,5
+1996-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,18
+1996-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,60
+1996-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,14
+1996-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,16
+1996-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,8
+1996-Q3,Total Services Sector,Financial & Insurance,Fund Management,na
+1996-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,39
+1996-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-19
+1996-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-3
+1996-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-15
+1996-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-11
+1996-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,7
+1996-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,24
+1996-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,14
+1996-Q4,Total Services Sector,Financial & Insurance,Fund Management,na
+1996-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,-2
+1996-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,6
+1997-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,7
+1997-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-29
+1997-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-47
+1997-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-12
+1997-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,24
+1997-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,29
+1997-Q1,Total Services Sector,Financial & Insurance,Fund Management,na
+1997-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,30
+1997-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,22
+1997-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,21
+1997-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,15
+1997-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,52
+1997-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,40
+1997-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,12
+1997-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-12
+1997-Q2,Total Services Sector,Financial & Insurance,Fund Management,na
+1997-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,16
+1997-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,15
+1997-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,7
+1997-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,26
+1997-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,62
+1997-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,67
+1997-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,14
+1997-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-32
+1997-Q3,Total Services Sector,Financial & Insurance,Fund Management,na
+1997-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,-1
+1997-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-1
+1997-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-19
+1997-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-38
+1997-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,2
+1997-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,37
+1997-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-21
+1997-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-54
+1997-Q4,Total Services Sector,Financial & Insurance,Fund Management,na
+1997-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,-28
+1997-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,-17
+1998-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-36
+1998-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-44
+1998-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-52
+1998-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,5
+1998-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-30
+1998-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-38
+1998-Q1,Total Services Sector,Financial & Insurance,Fund Management,na
+1998-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,-16
+1998-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,-14
+1998-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-38
+1998-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-49
+1998-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,-41
+1998-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,6
+1998-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-35
+1998-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-83
+1998-Q2,Total Services Sector,Financial & Insurance,Fund Management,na
+1998-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,-15
+1998-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,-37
+1998-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-39
+1998-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-34
+1998-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,-37
+1998-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,17
+1998-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-46
+1998-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-66
+1998-Q3,Total Services Sector,Financial & Insurance,Fund Management,na
+1998-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,-43
+1998-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-27
+1998-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-30
+1998-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-30
+1998-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-39
+1998-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,37
+1998-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-41
+1998-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-31
+1998-Q4,Total Services Sector,Financial & Insurance,Fund Management,na
+1998-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,-65
+1998-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,-21
+1999-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-15
+1999-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-21
+1999-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,42
+1999-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-2
+1999-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-24
+1999-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-21
+1999-Q1,Total Services Sector,Financial & Insurance,Fund Management,na
+1999-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,-34
+1999-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,0
+1999-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,15
+1999-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,17
+1999-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,50
+1999-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,10
+1999-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,23
+1999-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,41
+1999-Q2,Total Services Sector,Financial & Insurance,Fund Management,na
+1999-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,27
+1999-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,6
+1999-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,23
+1999-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,27
+1999-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,54
+1999-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,63
+1999-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,44
+1999-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-16
+1999-Q3,Total Services Sector,Financial & Insurance,Fund Management,na
+1999-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,76
+1999-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-41
+1999-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,19
+1999-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,11
+1999-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,0
+1999-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,31
+1999-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,66
+1999-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,1
+1999-Q4,Total Services Sector,Financial & Insurance,Fund Management,na
+1999-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,52
+1999-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,52
+2000-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,18
+2000-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-16
+2000-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-19
+2000-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,10
+2000-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,64
+2000-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-18
+2000-Q1,Total Services Sector,Financial & Insurance,Fund Management,na
+2000-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,69
+2000-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,18
+2000-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,24
+2000-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-9
+2000-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,36
+2000-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,50
+2000-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,60
+2000-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-36
+2000-Q2,Total Services Sector,Financial & Insurance,Fund Management,na
+2000-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,75
+2000-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,-20
+2000-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,23
+2000-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,22
+2000-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,78
+2000-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,62
+2000-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,63
+2000-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-32
+2000-Q3,Total Services Sector,Financial & Insurance,Fund Management,na
+2000-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,89
+2000-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-33
+2000-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-1
+2000-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-12
+2000-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,14
+2000-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,36
+2000-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,27
+2000-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-46
+2000-Q4,Total Services Sector,Financial & Insurance,Fund Management,na
+2000-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,54
+2000-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,-36
+2001-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-6
+2001-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-46
+2001-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,15
+2001-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-8
+2001-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-12
+2001-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-71
+2001-Q1,Total Services Sector,Financial & Insurance,Fund Management,na
+2001-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,71
+2001-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,68
+2001-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-19
+2001-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-29
+2001-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,43
+2001-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,14
+2001-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-17
+2001-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-50
+2001-Q2,Total Services Sector,Financial & Insurance,Fund Management,na
+2001-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,32
+2001-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,1
+2001-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-44
+2001-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-47
+2001-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,1
+2001-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,7
+2001-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-67
+2001-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-56
+2001-Q3,Total Services Sector,Financial & Insurance,Fund Management,na
+2001-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,-33
+2001-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-31
+2001-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-25
+2001-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-50
+2001-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-10
+2001-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-8
+2001-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-12
+2001-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-15
+2001-Q4,Total Services Sector,Financial & Insurance,Fund Management,na
+2001-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,26
+2001-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,-3
+2002-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-7
+2002-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-14
+2002-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,41
+2002-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,11
+2002-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,29
+2002-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-13
+2002-Q1,Total Services Sector,Financial & Insurance,Fund Management,na
+2002-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,33
+2002-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,26
+2002-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,8
+2002-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-24
+2002-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,58
+2002-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,4
+2002-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,30
+2002-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-3
+2002-Q2,Total Services Sector,Financial & Insurance,Fund Management,na
+2002-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,26
+2002-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,6
+2002-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,4
+2002-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-7
+2002-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,72
+2002-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,71
+2002-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,25
+2002-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,2
+2002-Q3,Total Services Sector,Financial & Insurance,Fund Management,na
+2002-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,42
+2002-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,4
+2002-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-17
+2002-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-12
+2002-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-26
+2002-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,23
+2002-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,15
+2002-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-10
+2002-Q4,Total Services Sector,Financial & Insurance,Fund Management,na
+2002-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,48
+2002-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,-15
+2003-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-30
+2003-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-62
+2003-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-82
+2003-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-36
+2003-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-22
+2003-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,18
+2003-Q1,Total Services Sector,Financial & Insurance,Fund Management,na
+2003-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,-28
+2003-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,3
+2003-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,2
+2003-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,35
+2003-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,56
+2003-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,23
+2003-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,20
+2003-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,47
+2003-Q2,Total Services Sector,Financial & Insurance,Fund Management,na
+2003-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,32
+2003-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,24
+2003-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,16
+2003-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,26
+2003-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,96
+2003-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,25
+2003-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,21
+2003-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,36
+2003-Q3,Total Services Sector,Financial & Insurance,Fund Management,na
+2003-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,44
+2003-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,1
+2003-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,9
+2003-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-21
+2003-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,32
+2003-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,58
+2003-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,58
+2003-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,22
+2003-Q4,Total Services Sector,Financial & Insurance,Fund Management,na
+2003-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,89
+2003-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,13
+2004-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,25
+2004-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-3
+2004-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,12
+2004-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,34
+2004-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,70
+2004-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,26
+2004-Q1,Total Services Sector,Financial & Insurance,Fund Management,80
+2004-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,43
+2004-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,71
+2004-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,34
+2004-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,24
+2004-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,43
+2004-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,66
+2004-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,63
+2004-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,24
+2004-Q2,Total Services Sector,Financial & Insurance,Fund Management,43
+2004-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,72
+2004-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,3
+2004-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,17
+2004-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,39
+2004-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,74
+2004-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,66
+2004-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,52
+2004-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,7
+2004-Q3,Total Services Sector,Financial & Insurance,Fund Management,46
+2004-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,78
+2004-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-30
+2004-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-9
+2004-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-9
+2004-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,14
+2004-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,42
+2004-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,53
+2004-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,67
+2004-Q4,Total Services Sector,Financial & Insurance,Fund Management,19
+2004-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,8
+2004-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,26
+2005-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,10
+2005-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-19
+2005-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,63
+2005-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,30
+2005-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,46
+2005-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,40
+2005-Q1,Total Services Sector,Financial & Insurance,Fund Management,58
+2005-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,58
+2005-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,-25
+2005-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,22
+2005-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,28
+2005-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,57
+2005-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,41
+2005-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,18
+2005-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,37
+2005-Q2,Total Services Sector,Financial & Insurance,Fund Management,40
+2005-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,69
+2005-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,-24
+2005-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,8
+2005-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,38
+2005-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,64
+2005-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,52
+2005-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,16
+2005-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,10
+2005-Q3,Total Services Sector,Financial & Insurance,Fund Management,48
+2005-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,81
+2005-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-22
+2005-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,5
+2005-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-2
+2005-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,40
+2005-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,14
+2005-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,55
+2005-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,47
+2005-Q4,Total Services Sector,Financial & Insurance,Fund Management,55
+2005-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,22
+2005-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,27
+2006-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,14
+2006-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-13
+2006-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,60
+2006-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-5
+2006-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,54
+2006-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,49
+2006-Q1,Total Services Sector,Financial & Insurance,Fund Management,86
+2006-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,71
+2006-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,-6
+2006-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,17
+2006-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,22
+2006-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,68
+2006-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,37
+2006-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,26
+2006-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-40
+2006-Q2,Total Services Sector,Financial & Insurance,Fund Management,32
+2006-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,75
+2006-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,-13
+2006-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,13
+2006-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,34
+2006-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,48
+2006-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,58
+2006-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,19
+2006-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-4
+2006-Q3,Total Services Sector,Financial & Insurance,Fund Management,62
+2006-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,81
+2006-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-5
+2006-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-11
+2006-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,8
+2006-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,27
+2006-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,31
+2006-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,49
+2006-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,35
+2006-Q4,Total Services Sector,Financial & Insurance,Fund Management,46
+2006-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,52
+2006-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,27
+2007-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,17
+2007-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-21
+2007-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,63
+2007-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,0
+2007-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,28
+2007-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-16
+2007-Q1,Total Services Sector,Financial & Insurance,Fund Management,36
+2007-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,45
+2007-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,27
+2007-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,28
+2007-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,2
+2007-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,62
+2007-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,66
+2007-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,34
+2007-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-28
+2007-Q2,Total Services Sector,Financial & Insurance,Fund Management,40
+2007-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,43
+2007-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,13
+2007-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,24
+2007-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,31
+2007-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,79
+2007-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,74
+2007-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,19
+2007-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-30
+2007-Q3,Total Services Sector,Financial & Insurance,Fund Management,-8
+2007-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,37
+2007-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,10
+2007-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,4
+2007-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-12
+2007-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,35
+2007-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,27
+2007-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,21
+2007-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-11
+2007-Q4,Total Services Sector,Financial & Insurance,Fund Management,9
+2007-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,24
+2007-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,20
+2008-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,9
+2008-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-29
+2008-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,69
+2008-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,3
+2008-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,7
+2008-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-44
+2008-Q1,Total Services Sector,Financial & Insurance,Fund Management,-47
+2008-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,-19
+2008-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,12
+2008-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-1
+2008-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-20
+2008-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,37
+2008-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-15
+2008-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,7
+2008-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-13
+2008-Q2,Total Services Sector,Financial & Insurance,Fund Management,-49
+2008-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,-22
+2008-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,23
+2008-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-10
+2008-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-12
+2008-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,4
+2008-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,24
+2008-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-33
+2008-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-68
+2008-Q3,Total Services Sector,Financial & Insurance,Fund Management,-45
+2008-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,-32
+2008-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-17
+2008-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-45
+2008-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-60
+2008-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-100
+2008-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-45
+2008-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-70
+2008-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-43
+2008-Q4,Total Services Sector,Financial & Insurance,Fund Management,-80
+2008-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,-38
+2008-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,-44
+2009-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-40
+2009-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-62
+2009-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-74
+2009-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-45
+2009-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-64
+2009-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-50
+2009-Q1,Total Services Sector,Financial & Insurance,Fund Management,-45
+2009-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,-32
+2009-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,-28
+2009-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-3
+2009-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-11
+2009-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,31
+2009-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,12
+2009-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,12
+2009-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,32
+2009-Q2,Total Services Sector,Financial & Insurance,Fund Management,48
+2009-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,9
+2009-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,5
+2009-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,23
+2009-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,27
+2009-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,44
+2009-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,41
+2009-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,32
+2009-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,18
+2009-Q3,Total Services Sector,Financial & Insurance,Fund Management,43
+2009-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,32
+2009-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,31
+2009-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,33
+2009-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-8
+2009-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,27
+2009-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,40
+2009-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,64
+2009-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,27
+2009-Q4,Total Services Sector,Financial & Insurance,Fund Management,58
+2009-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,33
+2009-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,24
+2010-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,44
+2010-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-18
+2010-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,12
+2010-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,45
+2010-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,78
+2010-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,37
+2010-Q1,Total Services Sector,Financial & Insurance,Fund Management,46
+2010-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,67
+2010-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,61
+2010-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,37
+2010-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,29
+2010-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,42
+2010-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,47
+2010-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,34
+2010-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-19
+2010-Q2,Total Services Sector,Financial & Insurance,Fund Management,43
+2010-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,59
+2010-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,44
+2010-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,38
+2010-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,29
+2010-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,39
+2010-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,41
+2010-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,29
+2010-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,14
+2010-Q3,Total Services Sector,Financial & Insurance,Fund Management,39
+2010-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,50
+2010-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,43
+2010-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,22
+2010-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-7
+2010-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,35
+2010-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,20
+2010-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,41
+2010-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,67
+2010-Q4,Total Services Sector,Financial & Insurance,Fund Management,54
+2010-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,49
+2010-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,57
+2011-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,20
+2011-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-24
+2011-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,56
+2011-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,10
+2011-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,43
+2011-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-25
+2011-Q1,Total Services Sector,Financial & Insurance,Fund Management,5
+2011-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,49
+2011-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,42
+2011-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,25
+2011-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,26
+2011-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,66
+2011-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,27
+2011-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,12
+2011-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,1
+2011-Q2,Total Services Sector,Financial & Insurance,Fund Management,13
+2011-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,49
+2011-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,40
+2011-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,0
+2011-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,23
+2011-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,15
+2011-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,51
+2011-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-54
+2011-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-48
+2011-Q3,Total Services Sector,Financial & Insurance,Fund Management,-72
+2011-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,25
+2011-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,33
+2011-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-19
+2011-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-29
+2011-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-29
+2011-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-27
+2011-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-68
+2011-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-28
+2011-Q4,Total Services Sector,Financial & Insurance,Fund Management,-52
+2011-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,-16
+2011-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,-9
+2012-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,17
+2012-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-14
+2012-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,18
+2012-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,0
+2012-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,3
+2012-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,47
+2012-Q1,Total Services Sector,Financial & Insurance,Fund Management,-14
+2012-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,0
+2012-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,20
+2012-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,4
+2012-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,15
+2012-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,44
+2012-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,30
+2012-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-23
+2012-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,1
+2012-Q2,Total Services Sector,Financial & Insurance,Fund Management,-25
+2012-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,-7
+2012-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,-1
+2012-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,4
+2012-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,41
+2012-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,30
+2012-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,39
+2012-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-6
+2012-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-25
+2012-Q3,Total Services Sector,Financial & Insurance,Fund Management,-19
+2012-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,13
+2012-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,15
+2012-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,3
+2012-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-15
+2012-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-27
+2012-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-21
+2012-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,8
+2012-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,8
+2012-Q4,Total Services Sector,Financial & Insurance,Fund Management,-6
+2012-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,-8
+2012-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,11
+2013-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,8
+2013-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-45
+2013-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,10
+2013-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-17
+2013-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,25
+2013-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,18
+2013-Q1,Total Services Sector,Financial & Insurance,Fund Management,10
+2013-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,6
+2013-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,26
+2013-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,9
+2013-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,9
+2013-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,43
+2013-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,26
+2013-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,4
+2013-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-4
+2013-Q2,Total Services Sector,Financial & Insurance,Fund Management,-23
+2013-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,5
+2013-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,-5
+2013-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,9
+2013-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,30
+2013-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,31
+2013-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,36
+2013-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,11
+2013-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-13
+2013-Q3,Total Services Sector,Financial & Insurance,Fund Management,0
+2013-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,1
+2013-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,2
+2013-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,0
+2013-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-4
+2013-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-10
+2013-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-29
+2013-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,27
+2013-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,40
+2013-Q4,Total Services Sector,Financial & Insurance,Fund Management,0
+2013-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,-6
+2013-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,-7
+2014-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,5
+2014-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-13
+2014-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,3
+2014-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,3
+2014-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,16
+2014-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,35
+2014-Q1,Total Services Sector,Financial & Insurance,Fund Management,0
+2014-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,25
+2014-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,15
+2014-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,15
+2014-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,21
+2014-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,37
+2014-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-5
+2014-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,34
+2014-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,8
+2014-Q2,Total Services Sector,Financial & Insurance,Fund Management,14
+2014-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,12
+2014-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,23
+2014-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,13
+2014-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,38
+2014-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,21
+2014-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,23
+2014-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,3
+2014-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,17
+2014-Q3,Total Services Sector,Financial & Insurance,Fund Management,18
+2014-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,23
+2014-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,-1
+2014-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-7
+2014-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,2
+2014-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-25
+2014-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-14
+2014-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,8
+2014-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,19
+2014-Q4,Total Services Sector,Financial & Insurance,Fund Management,16
+2014-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,24
+2014-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,23
+2015-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-4
+2015-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-9
+2015-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,4
+2015-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-8
+2015-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,8
+2015-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,34
+2015-Q1,Total Services Sector,Financial & Insurance,Fund Management,20
+2015-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,4
+2015-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,52
+2015-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-5
+2015-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,8
+2015-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,14
+2015-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,21
+2015-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,3
+2015-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-23
+2015-Q2,Total Services Sector,Financial & Insurance,Fund Management,21
+2015-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,6
+2015-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,2
+2015-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-16
+2015-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,34
+2015-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,40
+2015-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,36
+2015-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-13
+2015-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,0
+2015-Q3,Total Services Sector,Financial & Insurance,Fund Management,-47
+2015-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,22
+2015-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,11
+2015-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-27
+2015-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-2
+2015-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-48
+2015-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-27
+2015-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-1
+2015-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-24
+2015-Q4,Total Services Sector,Financial & Insurance,Fund Management,-32
+2015-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,13
+2015-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,6
+2016-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-12
+2016-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-16
+2016-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-25
+2016-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-21
+2016-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-23
+2016-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,-21
+2016-Q1,Total Services Sector,Financial & Insurance,Fund Management,-6
+2016-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,-1
+2016-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,13
+2016-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-19
+2016-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,2
+2016-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,21
+2016-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,20
+2016-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,1
+2016-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,0
+2016-Q2,Total Services Sector,Financial & Insurance,Fund Management,-36
+2016-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,2
+2016-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,19
+2016-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-15
+2016-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,23
+2016-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,1
+2016-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,19
+2016-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-12
+2016-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-13
+2016-Q3,Total Services Sector,Financial & Insurance,Fund Management,4
+2016-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,14
+2016-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,5
+2016-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-2
+2016-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-22
+2016-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-44
+2016-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-30
+2016-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-5
+2016-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-6
+2016-Q4,Total Services Sector,Financial & Insurance,Fund Management,-4
+2016-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,-5
+2016-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,-4
+2017-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,6
+2017-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-29
+2017-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-15
+2017-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-28
+2017-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,11
+2017-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,13
+2017-Q1,Total Services Sector,Financial & Insurance,Fund Management,-5
+2017-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,2
+2017-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,-2
+2017-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-2
+2017-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-5
+2017-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,27
+2017-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,41
+2017-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,6
+2017-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,15
+2017-Q2,Total Services Sector,Financial & Insurance,Fund Management,0
+2017-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,20
+2017-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,33
+2017-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,6
+2017-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,19
+2017-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,11
+2017-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,34
+2017-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,4
+2017-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-7
+2017-Q3,Total Services Sector,Financial & Insurance,Fund Management,22
+2017-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,37
+2017-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,40
+2017-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,6
+2017-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-5
+2017-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-23
+2017-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-6
+2017-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,22
+2017-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,13
+2017-Q4,Total Services Sector,Financial & Insurance,Fund Management,7
+2017-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,29
+2017-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,10
+2018-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,10
+2018-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-19
+2018-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-7
+2018-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-6
+2018-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,25
+2018-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,13
+2018-Q1,Total Services Sector,Financial & Insurance,Fund Management,4
+2018-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,20
+2018-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,5
+2018-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,4
+2018-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,7
+2018-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,38
+2018-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,37
+2018-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,17
+2018-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,10
+2018-Q2,Total Services Sector,Financial & Insurance,Fund Management,1
+2018-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,23
+2018-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,12
+2018-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,2
+2018-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,29
+2018-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,17
+2018-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,36
+2018-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-5
+2018-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,11
+2018-Q3,Total Services Sector,Financial & Insurance,Fund Management,0
+2018-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,20
+2018-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,0
+2018-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-9
+2018-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,2
+2018-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-26
+2018-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,4
+2018-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-16
+2018-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,-8
+2018-Q4,Total Services Sector,Financial & Insurance,Fund Management,-17
+2018-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,12
+2018-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,21
+2019-Q1,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,9
+2019-Q1,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-14
+2019-Q1,Total Services Sector,Accommodation & Food Services,Accommodation,-2
+2019-Q1,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-9
+2019-Q1,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-3
+2019-Q1,Total Services Sector,Financial & Insurance,Security Dealing Activities,11
+2019-Q1,Total Services Sector,Financial & Insurance,Fund Management,4
+2019-Q1,Total Services Sector,Financial & Insurance,Insurance Companies,5
+2019-Q1,Total Services Sector,Financial & Insurance,Other Financial Services,34
+2019-Q2,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-4
+2019-Q2,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-7
+2019-Q2,Total Services Sector,Accommodation & Food Services,Accommodation,25
+2019-Q2,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,19
+2019-Q2,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-14
+2019-Q2,Total Services Sector,Financial & Insurance,Security Dealing Activities,-23
+2019-Q2,Total Services Sector,Financial & Insurance,Fund Management,-17
+2019-Q2,Total Services Sector,Financial & Insurance,Insurance Companies,11
+2019-Q2,Total Services Sector,Financial & Insurance,Other Financial Services,17
+2019-Q3,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-5
+2019-Q3,Total Services Sector,Wholesale & Retail Trade,Retail Trade,7
+2019-Q3,Total Services Sector,Accommodation & Food Services,Accommodation,22
+2019-Q3,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,28
+2019-Q3,Total Services Sector,Financial & Insurance,Banks & Finance Companies,-24
+2019-Q3,Total Services Sector,Financial & Insurance,Security Dealing Activities,-22
+2019-Q3,Total Services Sector,Financial & Insurance,Fund Management,-21
+2019-Q3,Total Services Sector,Financial & Insurance,Insurance Companies,24
+2019-Q3,Total Services Sector,Financial & Insurance,Other Financial Services,11
+2019-Q4,Total Services Sector,Wholesale & Retail Trade,Wholesale Trade,-15
+2019-Q4,Total Services Sector,Wholesale & Retail Trade,Retail Trade,-22
+2019-Q4,Total Services Sector,Accommodation & Food Services,Accommodation,-32
+2019-Q4,Total Services Sector,Accommodation & Food Services,Food & Beverage Services,-20
+2019-Q4,Total Services Sector,Financial & Insurance,Banks & Finance Companies,17
+2019-Q4,Total Services Sector,Financial & Insurance,Security Dealing Activities,0
+2019-Q4,Total Services Sector,Financial & Insurance,Fund Management,0
+2019-Q4,Total Services Sector,Financial & Insurance,Insurance Companies,2
+2019-Q4,Total Services Sector,Financial & Insurance,Other Financial Services,16
